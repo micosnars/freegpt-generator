@@ -1,0 +1,6 @@
+{
+  "name": "GPT Checkout Link Generator",
+  "description": "Tool to parse ChatGPT auth sessions and simulate Stripe checkout link generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
